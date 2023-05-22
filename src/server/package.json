@@ -1,0 +1,8 @@
+{
+  "name": "cpsc304project",
+  "description": "cpsc304project",
+  "scripts": {
+    "build": "tsc -b",
+    "start": "node ./build/App.js"
+  }
+}

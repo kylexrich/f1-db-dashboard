@@ -1,0 +1,6 @@
+.idea/**
+node_modules/**
+scratch/**
+src/server/build/**
+/src/server/build/
+/src/server/build/**
